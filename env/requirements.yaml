@@ -10,6 +10,4 @@ dependencies:
 - name: demo
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
-- name: kompose-maven-example
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 3.5.11
+
